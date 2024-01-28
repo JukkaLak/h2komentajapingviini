@@ -18,4 +18,4 @@
 Asensin micro-editorin koneelleni syöttämällä komentorivityökalussa komennon "sudo apt-get -y install micro".
 
 # b) Rauta
-Yritin aluksi syöttää tehtävänannon mukaisesti komennon "sudo lshw -short -sanitize", mutta komentorivityökalu ei tunnistanut tätä komentoa joten jouduin lataamaan lshw:n komennolla "sudo apt-get -y install lshw. Syötin komennon "sudo lshw -short -sanitize" uudestaan ja minulle avautui seuraavanlainen listaus: 
+Yritin aluksi syöttää tehtävänannon mukaisesti komennon "sudo lshw -short -sanitize", mutta komentorivityökalu ei tunnistanut tätä komentoa joten jouduin lataamaan lshw:n komennolla "sudo apt-get -y install lshw. Syötin komennon "sudo lshw -short -sanitize" uudestaan ja minulle avautui seuraavanlainen listaus: ![Näyttökuva (9).png]
