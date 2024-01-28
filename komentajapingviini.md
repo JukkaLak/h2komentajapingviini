@@ -19,3 +19,6 @@ Asensin micro-editorin koneelleni syöttämällä komentorivityökalussa komenno
 
 # b) Rauta
 Yritin aluksi syöttää tehtävänannon mukaisesti komennon "sudo lshw -short -sanitize", mutta komentorivityökalu ei tunnistanut tätä komentoa joten jouduin lataamaan lshw:n komennolla "sudo apt-get -y install lshw. Syötin komennon "sudo lshw -short -sanitize" uudestaan ja minulle avautui seuraavanlainen listaus: ![Näyttökuva (9)](https://github.com/JukkaLak/h2komentajapingviini/blob/main/N%C3%A4ytt%C3%B6kuva%20(9).png)
+Tärkeimmät tiedot, mitä listasta voi esimerkkinä mainita ovat mm. koneen muistin tiedot, jotka näkyvät luokan memory kuvauksessa, prosessorin tiedot ja niin edelleen.
+
+Loppuosa tehtävästä jäi tekemättä, koska minulle tuli ylitsepääsemättömiä ongelmia enkä päässyt eteenpäin.
